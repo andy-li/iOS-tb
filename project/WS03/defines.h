@@ -1,4 +1,4 @@
-//
+﻿//
 //  defines.h
 //  WS03
 //
@@ -11,7 +11,7 @@
 #ifndef WS03_defines_h
 #define WS03_defines_h
 
-#define kTaobaoAppKey (@"21426541")
-#define kTaobaoAppSecret (@"d95f0db77de0da946c6883210e7655b3")
+#define kTaobaoAppKey (@"1111111")
+#define kTaobaoAppSecret (@"1111111")
 
 #endif
